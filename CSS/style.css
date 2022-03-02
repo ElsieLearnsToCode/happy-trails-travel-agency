@@ -8,3 +8,11 @@ body {
 .navbar{
     background-color: rgb(231, 184, 184);
 }
+.column {
+    float: left;
+    width: 30%;
+    padding: 5px;
+}
+img {
+    width: 100%;
+      }
