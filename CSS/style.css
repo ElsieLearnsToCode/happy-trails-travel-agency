@@ -3,6 +3,7 @@ body {
     font-style: normal;
     font: bolder;
     font-family: roboto;
+    color: black;
 }
 .navbar{
     background-color: rgb(231, 184, 184);
