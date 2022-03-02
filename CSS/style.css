@@ -7,7 +7,18 @@ body {
 }
 .topnav {
     background-color: rgb(196, 166, 123);
-    padding: 2%;
+    padding: 4%;
+}
+.topnav a {
+    float: left;
+    color: rgb(100, 17, 17);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    float: none;
+
+
 }
 img {
     width: 100%;
